@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HireQuotient/static/css/main.6d03479c.css",
+    "main.js": "/HireQuotient/static/js/main.8ae09750.js",
+    "static/js/787.7ae3371f.chunk.js": "/HireQuotient/static/js/787.7ae3371f.chunk.js",
+    "index.html": "/HireQuotient/index.html",
+    "main.6d03479c.css.map": "/HireQuotient/static/css/main.6d03479c.css.map",
+    "main.8ae09750.js.map": "/HireQuotient/static/js/main.8ae09750.js.map",
+    "787.7ae3371f.chunk.js.map": "/HireQuotient/static/js/787.7ae3371f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d03479c.css",
+    "static/js/main.8ae09750.js"
+  ]
+}
